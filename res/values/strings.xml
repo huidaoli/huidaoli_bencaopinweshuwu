@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本草品味书屋</string>
+    <string name="category_home">书屋</string>
+    <string name="category_channel">分类</string>
+    <string name="category_search">搜索</string>
+    <string name="category_account">我的资料</string>
+    <string name="category_more">更多</string>
+    <string name="search_hit">输入书名或作者</string>
+    <string name="search_text">搜索</string>
+    <string name="hot_search">热门搜索</string>
+    <string name="search_history">搜索历史</string>
+    <string name="clear_search_history">清除</string>
+    <string name="leave_look">书签</string>
+    <string name="play_history">阅读记录</string>
+    <string name="favorite">收藏夹</string>
+    <string name="my_account">我的帐号</string>
+    <string name="setting">设置</string>
+    <string name="feedback">信息反馈</string>
+    <string name="help">使用帮助</string>
+    <string name="about">更多</string>
+
+</resources>

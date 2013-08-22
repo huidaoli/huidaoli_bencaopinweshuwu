@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- 底部标签 -->
+	<dimen name="bottom_tab_padding_drawable">2.0dip</dimen><!--底部标签填充为可拉的-->
+	<dimen name="bottom_tab_padding_up">5.0dip</dimen><!-- 底部标签填充 -->
+	<dimen name="bottom_tab_font_size">10.0dip</dimen><!--底部标签字体大小-->
+</resources>
